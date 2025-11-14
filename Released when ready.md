@@ -2,4 +2,3 @@
 
 links:
 [Main](https://somanyfaces.jsx.pm/) [Netlify](https://somanyfaces.netlify.app/) [Vercel](https://somanyfaces.vercel.app/)
-
